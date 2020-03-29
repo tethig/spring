@@ -3,9 +3,13 @@
 ## Data Visualisations
 * [Genomics from NextStrain](https://nextstrain.org) (see "situation report" for narrative analysis, "latest data and analysis for phylogeny")
 * [Johns Hopkins CoV Map](https://coronavirus.jhu.edu/map.html)
+* [Worldometer CoV](https://www.worldometers.info/coronavirus/)
 * [FT Epidemic Trajectories](https://www.ft.com/coronavirus-latest)
 * [HealthMap nCoV](https://www.healthmap.org/covid-19/) (data: follow [this link](https://twitter.com/MOUGK/status/1221946663780208640))
+
+## Data Sources
 * [GISAID](https://www.gisaid.org)
+* [SARS-CoV-2 Proteome](https://viralzone.expasy.org/8996)
 
 ## Organisation
 * [ARTIC Network](https://artic.network/ncov-2019)
@@ -39,6 +43,7 @@
 * [Coronavirus Biology Video](https://youtu.be/8_bOhZd6ieM)
 * [Risk and Uncertainty during the COVID-19 pandemic](https://mdxminds.com/2020/03/26/risk-and-uncertainty-during-the-covid-19-pandemic/)
 * [DeepMind Protein Structure](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)
+* [ACE2 Receptor Overview](https://www.rndsystems.com/resources/articles/ace-2-sars-receptor-identified)
 * [ACE2 inhibitors and risk](https://www.bmj.com/content/368/bmj.m810/rr-2)
 * [Recombinant ACE2](https://www.bioworld.com/articles/433328-could-gsk-reject-benefit-covid-19-patients)
 * [Angiotensin II Receptor blocker](https://www.bmj.com/content/368/bmj.m406/rr-2)
