@@ -10,13 +10,20 @@
 ## Data Sources
 * [GISAID](https://www.gisaid.org)
 * [SARS-CoV-2 Proteome](https://viralzone.expasy.org/8996)
+* [SARS Array Dataset](https://www.omicsdi.org/dataset/arrayexpress-repository/E-GEOD-17400) (not COVID)
 
 ## Evolutionary Analysis
+* [Proximal Origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
 * [Substution Rate Analysis](http://virological.org/t/phylodynamic-analysis-176-genomes-6-mar-2020/356) 29/01/2020
 * [Selection Screening links](http://virological.org/t/selection-analysis-of-gisaid-sars-cov-2-data/448)
 * [Daily +ve Selection Screens](https://observablehq.com/@spond/natural-selection-analysis-of-sars-cov-2-covid-19)
 * [Narrative Summary of Screen](http://covid19.datamonkey.org/2020/03/25/covid19-analysis/) 25/03/2020
 * [Using the Raw Data](http://virological.org/t/transparent-analysis-of-raw-covid-19-data-lack-and-low-quality-of-raw-data/404)
+
+## Epidemiology
+* [Basic Modelling](https://medium.com/data-for-science/epidemic-modeling-101-or-why-your-covid19-exponential-fits-are-wrong-97aa50c55f8)
+* [Discussion of COVID Modelling](https://necpluribusimpar.net/are-we-headed-toward-an-unprecedented-public-health-disaster/)
+* [Is COVID Seasonal?](https://www.gnxp.com/WordPress/2020/03/28/covid-19-and-its-environmental-conditions/)
 
 ## Organisation
 * [ARTIC Network](https://artic.network/ncov-2019)
@@ -33,6 +40,7 @@
 * [STAT Magazine Coronavirus](https://www.statnews.com/tag/coronavirus/)
 * [The Atlantic](https://www.theatlantic.com/category/what-you-need-know-coronavirus/)
 * [Nat Geo Coronavirus](https://www.nationalgeographic.com/science/coronavirus-coverage/)
+* [eLife COVID-19 Summary](https://elifesciences.org/articles/57309)
 
 ## Practical Advice
 * [CDC Main Page](https://www.coronavirus.gov)
