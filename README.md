@@ -40,7 +40,7 @@
 * [STAT Magazine Coronavirus](https://www.statnews.com/tag/coronavirus/)
 * [The Atlantic](https://www.theatlantic.com/category/what-you-need-know-coronavirus/)
 * [Nat Geo Coronavirus](https://www.nationalgeographic.com/science/coronavirus-coverage/)
-* [eLife COVID-19 Summary](https://elifesciences.org/articles/57309)
+* [eLife COVID-19 Summary](https://bit.ly/2WOeN64) (PDF)
 
 ## Practical Advice
 * [CDC Main Page](https://www.coronavirus.gov)
@@ -74,6 +74,7 @@
 * [How the Pandemic will End](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/)
 * [Superforecasters on CoV](https://goodjudgment.io/covid/dashboard/)
 * [Legal Nomads on Risk Groups](https://www.legalnomads.com/coronavirus/)
+* [Trevor Bedford on Immunity](https://mobile.twitter.com/trvrb/status/1242628550563250176)
 
 ## People
 * [Trevor Bedford](https://mobile.twitter.com/trvrb)
