@@ -9,8 +9,13 @@
 
 ## Data Sources
 * [GISAID](https://www.gisaid.org)
-* [SARS-CoV-2 Proteome](https://viralzone.expasy.org/8996)
+* [ViralZone SARS-CoV-2 Resource](https://viralzone.expasy.org/9056) (includes proteome)
 * [SARS Array Dataset](https://www.omicsdi.org/dataset/arrayexpress-repository/E-GEOD-17400) (not COVID)
+
+## Vaccine Trackers
+* [WHO Vaccine Landscape](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines)
+* [New York Times Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
+* [RAPS Vaccine Tracker](https://www.raps.org/news-and-articles/news-articles/2020/3/covid-19-vaccine-tracker)
 
 ## Evolutionary Analysis
 * [Proximal Origin of SARS-CoV-2](https://www.nature.com/articles/s41591-020-0820-9)
